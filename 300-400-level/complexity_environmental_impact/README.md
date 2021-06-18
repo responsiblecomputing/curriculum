@@ -1,8 +1,12 @@
-*Computing Topic*: computational complexity
-*Societal Topic*: environmental impact
-*Course*: Analysis of Algorithms
-*Textbook*: Algorithm Design by Kleinberg and Tardos, Chapter 2
-*School*: Haverford College
+**Computing Topic**: computational complexity
+
+**Societal Topic**: environmental impact
+
+**Course**: Analysis of Algorithms
+
+**Textbook**: Algorithm Design by Kleinberg and Tardos, Chapter 2
+
+**School**: Haverford College
 
 Assignments in this folder introduce students to the environmental impact of computing and study how it relates to complexity.
 
