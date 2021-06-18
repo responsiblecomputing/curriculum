@@ -1,6 +1,16 @@
 # curriculum
 Responsible computing curricular modules aligned based on computing curriculum topics.
 
+# 100-level
+
+# 200-level
+
+# 300 to 400-level
+
+* [Computational complexity and environmental impact](300-400-level/complexity_environmental_impact), from Haverford College
+
+# Graduate level
+
 # Adding to this repository
 To add a curricular module to this repository please do the following:
 1. Choose a curriculum level (currently: 100, 200 300-400, graduate level)
